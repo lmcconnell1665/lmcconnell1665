@@ -1,4 +1,3 @@
-## Hi, I'm Luke McConnell
 ![](https://raw.githubusercontent.com/lmcconnell1665/lmcconnell1665/master/profile-header.png)
 
 ```python
