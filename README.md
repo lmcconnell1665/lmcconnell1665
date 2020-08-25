@@ -1,8 +1,6 @@
 ## Hi, I'm Luke McConnell
 ![](https://raw.githubusercontent.com/lmcconnell1665/lmcconnell1665/master/profile-header.png)
 
-![Python application](https://github.com/rafnixg/rafnixg/workflows/Python%20application/badge.svg?branch=master&event=schedule) ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=rafnixg.rafnixg)
-
 ```python
 class luke-mcconnell:
 
