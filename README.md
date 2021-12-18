@@ -8,10 +8,10 @@ class luke-mcconnell:
         self.name = 'Luke McConnell'
         self.web = 'https://mcconnellweb.com'
         self.code = {
-            'code': ['Python', 'R', 'SQL'],
+            'code': ['Python', 'SQL', 'Scala', 'R'],
             'visualization': ['Power BI', 'Tableau', 'Dash by Plot.ly'],
-            'database': ['PostgreSQL', 'SSMS', 'Mongo DB', 'DynamoDB'],
-            'devops': ['AWS', 'Azure', 'GCP', 'Docker', 'GitHub Actions'],
+            'database': ['SQL Server', 'Postgres', 'Mongo DB', 'DynamoDB'],
+            'devops': ['Azure', 'AWS', 'Azure DevOps', 'Docker', 'GitHub Actions'],
             'tools': ['GIT', 'GitHub', 'Continuous Integration/Deployment'],
         }
 
